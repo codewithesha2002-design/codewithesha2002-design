@@ -37,9 +37,15 @@
 --
 <div align="center">
   <br />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=50&section=footer" width="100%" />
+</p>
       <b>"Turning complex logic into simple, impactful solutions."</b>
     </p>
   </blockquote>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=60&section=footer&reversal=true" width="100%" />
+</p>
   <br />
 </div>
 ---
