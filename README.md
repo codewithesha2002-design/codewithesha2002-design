@@ -127,10 +127,11 @@
   </p>
   <br />
 </div>
----
+<br />
+
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
-    <td width="60%" style="vertical-align: middle;">
+    <td width="50%" style="vertical-align: middle;">
       <h2 style="color: #F8A5C2; font-family: sans-serif; margin-bottom: 10px;">
         ✨ Let's Build the Future
       </h2>
@@ -140,24 +141,25 @@
         contribute to scalable systems and AI-driven solutions. 
       </p>
     </td>
-    <td width="40%" align="right">
-  🐍 My Contribution Garden
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg">
-</picture>
---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>" 
-        
-  </td>
+   <td width="50%" align="right" style="vertical-align: middle;">
+      <p align="center" style="margin: 0;">
+        <b style="color: #F8A5C2; font-family: sans-serif;">🐍 Contribution Garden</b><br/><br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg">
+          <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" width="100%">
+        </picture>
+      </p>
+    </td>
   </tr>
 </table>
+
+<p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 20px;">
+  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
 </p>
 
-<p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 10px;">
-  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8A5C2&height=100&section=footer"/>
+</p>
 </p>
