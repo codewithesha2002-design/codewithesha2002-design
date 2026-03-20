@@ -141,7 +141,11 @@
       </p>
     </td>
     <td width="40%" align="right">
-      <img src="https://octodex.github.com/images/grim-repo.jpg" 
+      🐍 My Contribution Garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>" 
            alt="Grim Repo Octocat" 
            width="100" 
            style="border-radius: 20px; border: 2px solid #F8A5C2;" />
