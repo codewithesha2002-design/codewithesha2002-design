@@ -106,9 +106,6 @@
       <p>
       I value consistency, clean code, and resilience. I see challenges as opportunities to grow and I’m always open to feedback.
       </p>
-      <blockquote>
-        “The impediment to action advances action. What stands in the way becomes the way.” — <b>Marcus Aurelius</b>
-      </blockquote>
     </td>
     <td width="30%" align="right" style="vertical-align: middle;">
       <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" 
@@ -118,7 +115,18 @@
     </td>
   </tr>
 </table>
-
+<div align="center">
+  <br />
+ --
+  😈 INSPIRATION 
+  --
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=header&text=The%20impediment%20to%20action%20advances%20action.&fontSize=22&fontColor=F8A5C2" width="100%" />
+  
+  <p style="font-style: italic; font-size: 1.2rem; color: #8b949e; margin-top: -40px;">
+    "What stands in the way becomes the way." — <b>Marcus Aurelius</b>
+  </p>
+  <br />
+</div>
 ---
 <table align="center" width="100%" style="border-collapse: collapse;">
   <tr>
@@ -140,8 +148,6 @@
     </td>
   </tr>
 </table>
-
-
 </p>
 
 <p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 10px;">
