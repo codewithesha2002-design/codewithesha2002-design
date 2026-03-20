@@ -38,7 +38,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
-
+   <blockquote style="border-left: 4px solid #F8A5C2; padding-left: 15px; font-style: italic; color: #8b949e;">
+        "Turning complex logic into simple, impactful solutions."
+      </blockquote>
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </p>
