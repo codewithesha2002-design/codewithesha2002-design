@@ -193,9 +193,8 @@
   </tr>
 </table>
 
-<p align="center" style="font-family: monospace; letter-spacing: 2px;">
-─── ⋆⋅☆⋅⋆ LET'S BUILD SOMETHING EXTRAORDINARY ⋆⋅☆⋅⋆ ───
+<p align="center" style="font-family: 'Courier New', monospace; letter-spacing: 2px; color: #FFD700;">
+  ─── ⋆⋅☆⋅⋆ <b>LET'S BUILD THE FUTURE TOGETHER</b> ⋆⋅☆⋅⋆ ───
 </p>
-
 </p>
 </p>
