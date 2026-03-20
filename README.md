@@ -194,7 +194,7 @@
 </table>
 
 <p align="center" style="font-family: monospace; letter-spacing: 2px;">
-  ─── ⋆⋅☆⋅⋆ <b>THANK YOU FOR YOUR TIME</b> ⋆⋅☆⋅⋆ ───
+─── ⋆⋅☆⋅⋆ LET'S BUILD SOMETHING EXTRAORDINARY ⋆⋅☆⋅⋆ ───
 </p>
 
 </p>
