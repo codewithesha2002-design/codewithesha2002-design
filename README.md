@@ -59,25 +59,29 @@
 ---
 
 ## 🌐 Connect With Me
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/codewithesha2002-design">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="margin: 0 12px;" />
+  <a href="https://github.com/codewithesha2002-design" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   </a>
-  <a href="https://www.linkedin.com/in/codewithesha2002">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="margin: 0 12px;" />
+  <a href="https://www.linkedin.com/in/codewithesha2002" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/i__hype__in/">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" style="margin: 0 12px;" />
+  <a href="https://www.instagram.com/i__hype__in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
   </a>
-  <a href="https://x.com/codewithesha">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png" width="30" style="margin: 0 12px;" />
+  <a href="https://x.com/codewithesha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter" />
   </a>
-  <a href="https://leetcode.com/u/ESHA_SHARM2/">
-    <img src="https://cdn-icons-png.flaticon.com/512/8445/8445915.png" width="30" style="margin: 0 12px;" />
+  <a href="https://leetcode.com/u/ESHA_SHARM2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode" />
   </a>
 </p>
 
+---
 ---
 
 ##📊 Performance & Contributions
