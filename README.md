@@ -68,20 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-<a href="https://codewithesha2002-design.github.io/LOTUS-Hotel/">
-  <img src="https://via.placeholder.com/400x200/FADADD/000000?text=🏨+Lotus+Hotel+Website" />
-</a>
-
-<a href="https://tipsprediction-codewithesha2002-design.streamlit.app/">
-  <img src="https://via.placeholder.com/400x200/FFC0CB/000000?text=🤖+Tip+Prediction+App+(AI%2FML)" />
-</a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 ---
 
