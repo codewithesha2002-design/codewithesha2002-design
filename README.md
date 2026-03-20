@@ -8,22 +8,34 @@
 </p>
 
 ---
-
-<h2 align="center">👋 Hey there! I'm Esha</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F8A5C2&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Esha+--+The+Problem+Solver;Building+Scalable+Architectures;Exploring+AI+Integrations" alt="Typing Intro" />
+</h2>
 
 <p align="center">
-🎓 Software Engineering Student passionate about building real-world systems <br/><br/>
-
-💻 Full-Stack Developer focused on scalable web applications <br/>
-🤖 Exploring AI/ML through practical, problem-solving projects <br/><br/>
-
-🚀 Currently building Healthcare, AI & Web Platforms <br/>
-🌱 Learning Go & backend scalability to move beyond basic CRUD <br/><br/>
-
-💬 Ask me about React, Node.js, MySQL, APIs <br/>
-⚡ Fun fact: I turn ☕ into clean, working code
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=Turning%20Complex%20Logic%20into%20Simple%20Solutions&fontSize=20&fontColor=F8A5C2" width="100%" />
 </p>
 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="padding: 20px; background-color: #0d1117; border-radius: 15px; border: 1px solid #30363d;">
+      <p align="left" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+        🚀 <b>The Mission:</b> I don't just write CRUD apps. I'm a <b>Software Engineering student</b> obsessed with the "Why" behind the code. Whether it's optimizing a <b>Go-based backend</b> or training a <b>Predictive ML model</b>, my goal is to build systems that actually <i>matter</i>.
+        <br/><br/>
+        🛠️ <b>The Strategy:</b> 
+        • <b>Full-Stack:</b> Building React/Node.js apps that don't just work, but scale. <br/>
+        • <b>AI/ML:</b> Moving beyond data sets to real-world predictive features. <br/>
+        • <b>Scalability:</b> Currently deep-diving into <b>Go</b> to master concurrency and high-load systems.
+        <br/><br/>
+        💬 <b>Brainstorm with me:</b> Let's talk about <b>Microservices</b>, <b>Neural Networks</b>, or how to turn <b>☕</b> into <b>Clean Code</b>.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
 ---
 
 ## 💎 Tech Stack
