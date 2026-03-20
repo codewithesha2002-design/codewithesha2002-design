@@ -141,15 +141,19 @@
       </p>
     </td>
     <td width="40%" align="right">
-      🐍 My Contribution Garden
+  🐍 My Contribution Garden
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg">
+</picture>
+--
 <p align="center">
   <img src="https://raw.githubusercontent.com/codewithesha2002-design/codewithesha2002-design/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>" 
-           alt="Grim Repo Octocat" 
-           width="100" 
-           style="border-radius: 20px; border: 2px solid #F8A5C2;" />
-    </td>
+        
+  </td>
   </tr>
 </table>
 </p>
