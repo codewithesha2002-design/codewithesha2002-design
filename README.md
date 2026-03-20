@@ -35,15 +35,15 @@
   </tr>
 </table>
 --
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-   <blockquote style="border-left: 4px solid #F8A5C2; padding-left: 15px; font-style: italic; color: #8b949e;">
-        "Turning complex logic into simple, impactful solutions."
-      </blockquote>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
+<div align="center">
+  <br />
+  <blockquote style="border-radius: 10px; border-left: 10px solid #F8A5C2; background-color: #161b22; padding: 20px;">
+    <p style="font-family: 'Courier New', Courier, monospace; font-size: 1.4rem; color: #F8A5C2; margin: 0;">
+      <b>"Turning complex logic into simple, impactful solutions."</b>
+    </p>
+  </blockquote>
+  <br />
+</div>
 ---
 
 ## 💎 Tech Stack
