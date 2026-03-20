@@ -132,7 +132,7 @@
     <td width="40%" align="right">
       <img src="https://octodex.github.com/images/grim-repo.jpg" 
            alt="Grim Repo Octocat" 
-           width="180" 
+           width="100" 
            style="border-radius: 20px; border: 2px solid #F8A5C2;" />
     </td>
   </tr>
