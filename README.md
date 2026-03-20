@@ -138,11 +138,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a7d98d1d-e97c-4616-9775-b54903fd670b" 
-       width="100%" 
-       style="max-width: 896px; height: auto; border-radius: 10px;" 
-       alt="Footer Banner" />
+
 </p>
 
 <p align="right" style="font-family: monospace; letter-spacing: 2px; margin-top: 10px;">
