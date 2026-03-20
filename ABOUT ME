@@ -75,22 +75,23 @@
 ---
 
 <h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
-  <a href="https://github.com/codewithesha2002-design" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,twitter&theme=dark" height="45" />
+</p>
+<p align="center">
+  <a href="https://github.com/codewithesha2002-design">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   </a>
-  <a href="https://www.linkedin.com/in/codewithesha2002" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/codewithesha2002">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin" />
   </a>
-  <a href="https://www.instagram.com/i__hype__in/" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/i__hype__in/">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram" />
   </a>
-  <a href="https://x.com/codewithesha" target="_blank">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/codewithesha">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter" />
-  </a>
-  <a href="https://leetcode.com/u/ESHA_SHARM2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="leetcode" />
   </a>
 </p>
 
