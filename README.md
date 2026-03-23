@@ -75,28 +75,25 @@
 ---
 
 <p align="center">
-  <a href="https://x.com/codewithesha" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="codewithesha" height="45" width="40" />
-  </a>
-  </p>
-  <a href="https://github.com/codewithesha2002-design" style="text-decoration: none;">
+  <a href="https://github.com/codewithesha2002-design" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="github" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/codewithesha2002" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/codewithesha2002" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/i__hype__in/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/i__hype__in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/codewithesha" style="text-decoration: none;">
+  <a href="https://x.com/codewithesha" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://leetcode.com/u/ESHA_SHARM5/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
-</a>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45" alt="leetcode" />
+  </a>
 <a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
   <img src="https://img.shields.io/badge/Stack_Overflow-FFD700?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="Stack Overflow Gold" />
 </a>
