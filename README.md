@@ -170,6 +170,7 @@
 </p>
 
 <div style="margin-top:25px;"></div>
+<h3 align="center">🐍 Contribution Flow</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true" width="100%" />
@@ -177,7 +178,6 @@
 
 ---
 
-<h3 align="center">🐍 Contribution Flow</h3>
 
 <div style="margin-top:15px;"></div>
 
