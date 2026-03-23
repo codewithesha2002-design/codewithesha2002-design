@@ -142,10 +142,10 @@
 ---
 
 ## 📊 My Development Dashboard
+
 <p align="center">
-  <a href="https://leetcode.com/u/ESHA_SHARM5/">
-    <img src="https://leetcode-stats-github-cloud.vercel.app/api?username=ESHA_SHARM5&theme=gradient" alt="LeetCode Stats" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Karma&ext=contest" />
+</p>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent&title_color=F8A5C2&icon_color=F8A5C2&text_color=ffffff&bg_color=0d1117" width="48%" />
