@@ -71,33 +71,33 @@
 
 ---
 
-##🌐 Connect With Me
----
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/codewithesha2002-design" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <a href="https://github.com/codewithesha2002-design">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/codewithesha2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/codewithesha2002">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/i__hype__in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  &nbsp;
+  <a href="https://www.instagram.com/i__hype__in/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/codewithesha" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  &nbsp;
+  <a href="https://x.com/codewithesha">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ESHA_SHARM5/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="45" />
+  &nbsp;
+  <a href="https://leetcode.com/u/ESHA_SHARM5/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-</p>
-<a href="https://stackoverflow.com/users/32440164/kanika-sharma" target="_blank">
+  &nbsp;
+  <a href="https://stackoverflow.com/users/32440164/kanika-sharma">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-</p>>
+</p>
 
 ---
 
