@@ -90,8 +90,8 @@
   <a href="https://x.com/codewithesha" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="twitter" />
   </a>
-  <a href="https://leetcode.com/u/ESHA_SHARM5/">
-  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Istok%20Web&ext=contest" alt="ESHA_SHARM5's LeetCode Stats" />
+  <a href="https://leetcode.com/u/ESHA_SHARM5/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" />
 </a>
 </p>
 ---
