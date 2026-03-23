@@ -11,8 +11,13 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F8A5C2&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);I'm+Esha+--+The+Problem+Solver;Building+Scalable+Architectures;Exploring+AI+Integrations" alt="Typing Intro" />
 </h2>
-## 🌐 Connect With Me
-
+--
+<h2 align="center">
+  <span style="font-size:28px; font-weight:700; letter-spacing:1px;">
+    ✨ Reach Me Out ✨
+  </span>
+</h2>
+--
 <p align="center">
   <a href="https://github.com/codewithesha2002-design">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
