@@ -125,10 +125,6 @@
 
 <p align="center">
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=transparent&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=transparent&title_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
