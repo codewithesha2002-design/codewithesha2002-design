@@ -119,27 +119,6 @@
     letter-spacing: 1px;
     text-shadow: 0 0 10px rgba(255, 215, 0, 0.3);
   ">
-    📊 Performance & Contributions
-  </h2>
-</div>
-
-<p align="center">
-  <br />
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesha2002-design&theme=transparent&fire=F8A5C2&ring=F8A5C2&currStreakLabel=F8A5C2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true&area=true" width="100%" />
-  </a>
-</p>
-
----
----
 ## 📊 My Development Dashboard
 
 <div style="margin-top:25px;"></div>
