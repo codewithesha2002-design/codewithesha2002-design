@@ -65,25 +65,17 @@
 
 
 <h2 align="center" style="color: #FFD700;">📈 Stats & Activity</h2>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codewithesha2002-design&theme=shimmer&no-bg=true&column=7&margin-w=15" alt="github trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesha2002-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&title_color=F8A5C2&icon_color=FFD700&text_color=e0def4&bg_color=191724" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=rose_pine&hide_border=true&title_color=F8A5C2&icon_color=FFD700&text_color=e0def4&bg_color=191724" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
-<p align="center" style="margin-top: 25px;">
-  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Syncopate&accent=FFD700" width="450" alt="LeetCode Stats" />
-</p>
-
 ---
 
-
----
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
