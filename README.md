@@ -65,15 +65,35 @@
 
 <h2 align="center" style="color: #FFD700;">📈 Stats & Activity</h2>
 
+---
+
+<h2 align="center" style="color: #FFD700;">📈 Stats & Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=codewithesha2002-design&theme=rosepine&no-bg=true&margin-w=15" alt="github trophy" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=rose_pine&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=rose_pine&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=rose_pine&count_private=true&hide_border=true&title_color=F8A5C2&icon_color=FFD700&text_color=e0def4&bg_color=191724" height="170" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=rose_pine&hide_border=true&title_color=F8A5C2&icon_color=FFD700&text_color=e0def4&bg_color=191724" height="170" alt="Top Languages" />
 </div>
 
 <p align="center" style="margin-top: 20px;">
-  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Syncopate&accent=FFD700" width="450" />
+  <img src="https://leetcard.jacoblin.cool/ESHA_SHARM5?theme=dark&font=Syncopate&accent=FFD700" width="450" alt="LeetCode Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=191724&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codewithesha2002-design&color=F8A5C2&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
+
+---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true" width="100%" />
 </p>
