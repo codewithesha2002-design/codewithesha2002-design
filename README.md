@@ -115,11 +115,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithesha2002-design&theme=github-compact&color=F8A5C2&bg_color=0d1117&hide_border=true" width="100%" />
-</p>
-
----
 
 <div align="center">
   <h2 style="color: #F8A5C2;">✨ Let's Build the Future</h2>
