@@ -110,10 +110,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codewithesha2002-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithesha2002-design&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithesha2002-design&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
 ---
